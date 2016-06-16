@@ -1,6 +1,6 @@
 # Coding-Competition
 
-blahbalha THIS WAS EDITED LOCALLY.
+blahbalha THIS WAS EDITED LOCALLY. and again.
 HAHAHAH
 HAA
 HA
@@ -11,4 +11,4 @@ A
 AAHAHAHA
 HAAHAHAA
 AHAHAHAHA
-blahbalha THIS WAS EDITED LOCALLY.
+blahbalha THIS WAS EDITED LOCALLY. and again.
