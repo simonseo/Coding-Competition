@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Coding-Competition
 
 blahbalha THIS WAS EDITED LOCALLY. and again.
@@ -12,3 +13,6 @@ AAHAHAHA
 HAAHAHAA
 AHAHAHAHA
 blahbalha THIS WAS EDITED LOCALLY. and again.
+=======
+# Coding-Competition
+>>>>>>> parent of 959a81a... FIRST COMMIT FROM SOURCETREE
